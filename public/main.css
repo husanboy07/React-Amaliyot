@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Cormorant+Infant:wght@400;500&family=Finlandica:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Gothic+A1:wght@200;500&family=Inter:wght@300&family=Josefin+Sans:ital@0;1&family=Lobster&family=Montserrat:ital,wght@0,200;0,400;0,500;0,600;1,400;1,500;1,600;1,700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Finlandica';
+}
+
+.navbar .logo{
+    position: absolute;
+    left: 10%;
+}
+.navbar{
+    margin-top: 4%;
+}
+.navbar .Docs{
+    margin-left: 30%;
+}
+.navbar a{
+    text-decoration: none;
+    margin-left: 5%;
+    color: #050038;
+    margin-top: 460px;
+}
+
+.navbar button{
+    width: 180px;
+    height: 50px;
+    border-radius: 50px;
+    background: #0555FF;
+    color: #fff;
+    border: none;
+    margin-left: 5%;
+}
+
+.header h1{
+    text-align: center;
+    font-size: 90px;
+    color: #050038;
+    margin-top: 10%;
+}
+
+.header p{
+    text-align: center;
+    font-size: 22px;
+    color: #5B5E6D;
+    margin-top: 5%;
+}
+
+.button1{
+    width: 208px;
+    height: 60px;
+    border-radius: 30px;
+    background: #0555FF;
+    border: none;
+    color: #fff;
+    margin-top: 3%;
+    margin-left: 30%;
+}
+.button2{
+    width: 251px;
+    height: 60px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(176, 201, 253, 0.3);
+    border-radius: 30px;
+    border: none;
+    margin-left: 3%;
+}
+
+.header img{
+    width: 950px;
+    margin-left: 15%;
+    margin-top: 5%;
+}
